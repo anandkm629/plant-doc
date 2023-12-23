@@ -95,13 +95,6 @@ npm run dev
 
 That's it you are good to go! Looking forward to your contributions.
 
-## Contributors
-
-<a href="https://github.com/anandkm629">
-  <img src="https://contrib.rocks/image?repo=Deveesh-Shetty/rudraksh" />
-</a>
-
-<br />
 <br />
 
 **Thank you for using PlantDoc!**
