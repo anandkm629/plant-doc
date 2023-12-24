@@ -53,7 +53,7 @@ export default function FAQs() {
             <AccordionContent>
               PlantDoc is free and open source on{" "}
               <Link
-                href="https://github.com/Deveesh-Shetty/rudraksh"
+                href="https://github.com/anandkm629/plant-doc?tab=readme-ov-file"
                 className="underline"
               >
                 GitHub
