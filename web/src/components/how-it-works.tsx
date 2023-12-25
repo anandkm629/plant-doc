@@ -25,7 +25,7 @@ export default function HowItWorks() {
             <p>
               Start by capturing a clear image of a plant leaf that might be
               showing signs of disease. Ensure that the image is sharp and
-              well-lit. Easily upload the image to the Rudraksh platform using
+              well-lit. Easily upload the image to the PlantDoc platform using
               our user-friendly interface.
             </p>
           </div>
